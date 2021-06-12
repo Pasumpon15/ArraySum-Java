@@ -8,9 +8,12 @@ public class Sum {
 		 for (int i=0;i<a.length;i++) {
 			sum= sum+a[i];
 			}
-	 avg = (float) sum/a.length;
+	 avg = sum/a.length;
 	   System.out.println("The Sum is  "+sum);
 	   System.out.println("The average is "+avg);
+	   System.out.println("wert");
+	   System.out.println("asdfgjkl");
+	   System.out.println("ambvcxz");
 	}
 }
 
